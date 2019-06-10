@@ -6,7 +6,7 @@ OERworkflow ist eine als Selbstlernangebot gestaltete Schritt-für-Schritt Anlei
 
 ## Wie kann ich OERworkflow nutzen?
 
-Die Online-Version findest Du auf der Website [OErworkflow](https://oerworkflow.de)
+Die Online-Version findest Du auf der Website [OERworkflow](https://oerworkflow.de)
 Sie ist geschrieben für Einsteiger/innen ins Thema Open Educational Resources (OER). 
 
 Die Inhalte stehen zur Weiternutzung unter CC BY 4.0 zur Verfügung. Bitte beachte dazu die Lizenzangaben unter [Lizenz](https://github.com/eBildungslabor/OERworkflow/tree/master). Wenn Du die Inhalte mit Deinen Änderungen und Anpassungen weiter nutzen möchtest, kannst Du dieses Verzeichnis forken - und dann z.B. via GitHub Pages neu veröffentlichen.
